@@ -1,0 +1,63 @@
+body {
+    padding-top: 50px;
+    background-image: linear-gradient(to bottom, #000000, #C27D06  );
+    background-attachment: fixed;
+}
+
+header {
+    color:#FFA307 ;
+    text-align: center;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: black 2px 2px 2px;
+}
+section {
+    background-color: #FFA307 ;
+    border-radius: 10px;
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    box-shadow: black 2px 2px 2px;
+}
+
+#mostruario {
+    background-color: rgb(10, 10, 10);
+    color:#FFA307 ;
+    border-radius: 10px 10px 10px 10px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    max-height: 100px;
+    padding: 20px;
+}
+
+input {
+    margin-top: 20px;
+    margin-left: 0px;
+    border-radius: 15px;
+    border: 0px;
+    box-shadow: black 1px 1px 5px;
+    
+}
+
+label {
+    margin-left: 130px;
+    text-align: center;
+}
+
+#botao {
+    margin: auto;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 200px;
+    border-radius: 10px;
+    border: 0px;
+    background-color: black;
+    color:#FFA307 ;
+}
+
+h2{
+    text-align: center;
+}
